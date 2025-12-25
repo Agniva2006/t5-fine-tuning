@@ -61,7 +61,7 @@ This reflects real-world LLM evaluation practices.
 
 ---
 ## sample
-hat are common symptoms of lung cancer?
+what are common symptoms of lung cancer?
 
 Model Answer (Educational):
  -Common symptoms of lung cancer may include:
