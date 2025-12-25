@@ -64,14 +64,13 @@ This reflects real-world LLM evaluation practices.
 hat are common symptoms of lung cancer?
 
 Model Answer (Educational):
-
  -Common symptoms of lung cancer may include:
--A persistent cough or changes in an existing cough
--Shortness of breath or difficulty breathing
--Chest pain or wheezing
--Fatigue or weakness
--Unexplained weight loss or loss of appetite
--Frequent respiratory infections
+ -A persistent cough or changes in an existing cough
+ -Shortness of breath or difficulty breathing
+ -Chest pain or wheezing
+ -Fatigue or weakness
+ -Unexplained weight loss or loss of appetite
+ -Frequent respiratory infections
 
 
 
